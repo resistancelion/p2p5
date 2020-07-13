@@ -12,4 +12,4 @@ Protocol issues as for 10-07-2020:
 1) Date/time and public entries recording and verifying
 2) MITM with the unauth connection and possible piratage
 
--- possible solution is to use blockchain as verification or external site(s)
+-- possible solution is to use blockchain or external site as verification
