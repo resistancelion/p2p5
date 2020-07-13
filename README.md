@@ -12,4 +12,5 @@ Protocol issues as for 10-07-2020:
 1) Date/time recording and verifying
 2) MITM with the unauth connection and possible piratage
 3) Public channel identity/integrity verification
+
 -- possible solution is to use blockchain as verification or external site(s)
